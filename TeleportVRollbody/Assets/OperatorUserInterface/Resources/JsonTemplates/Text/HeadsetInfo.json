@@ -1,0 +1,10 @@
+{
+	"id": 133,
+	"type": "Text",
+	"title": "HeadsetInfo",
+	"widgetPosition": "child",
+	"textMessage": "shows headset status",
+	"textFontSize": 20,
+	"textColor": [ 255, 255, 255, 255 ],
+	"trainingInfo" : true
+}

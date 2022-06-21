@@ -1,0 +1,10 @@
+{
+	"id": 313,
+	"type": "Text",
+	"title": "Info",
+	"widgetPosition": "child",
+	"textMessage": "enables/disables descriptive text",
+	"textFontSize": 20,
+	"textColor": [ 255, 255, 255, 255 ],
+	"trainingInfo" : true
+}
